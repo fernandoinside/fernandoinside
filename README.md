@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii! Eu sou o Fernando Machado
  <div>
   <a href="https://github.com/fernandoinside">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoinside&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
