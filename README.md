@@ -1,4 +1,48 @@
-## Oiii! Eu sou o Fernando Machado
+## Fernando Machado dos Santos
+
+## Programador | Desenvolvimento de Hardware e Software | Especialista em IoT e IA
+
+### Sobre Mim
+
+Sou um programador entusiasta com ampla experiência em desenvolvimento de hardware e software. Minha paixão pela tecnologia me levou a explorar desde programação embarcada até criação de hardware inovador, sempre buscando soluções criativas e eficazes. Minha expertise em IoT e Inteligência Artificial complementa minha habilidade em oferecer soluções tecnológicas excepcionais.
+
+### Experiência
+
+#### Sênior na PRODESP (Mai 2022 - Jun 2023)
+
+Atuei como Responsável pelo sistema Bolsa do Povo e suas ramificações, garantindo a manutenção do servidor e desenvolvendo novas funcionalidades para aprimorar a experiência dos usuários. Foco em segurança e eficiência.
+
+#### Sênior na inova e-business (Desde Fev 2019)
+
+Liderança em projetos de integração complexos, como a integração da plataforma VTEX com a rede DPSP. Desenvolvedor de aplicativo móvel híbrido e criador de um HUB inovador para o PBM. Especialização em .NET Core, C# 8, MongoDB e Cordova JS.
+
+#### Sênior na Deal Technologies (Jan 2019 - Abr 2019)
+
+Desenvolvimento e otimização do portal de clientes da Duratex SA. Analista de Desenvolvimento na Nivea Cosméticos, solucionando desafios financeiros com tecnologias eficazes.
+
+#### Sênior na Intelmib (Nov 2015 - Nov 2016)
+
+Desenvolvimento e suporte de ERP abrangente, migração bem-sucedida para ambiente de nuvem VPS para conformidade com regulamentações.
+
+#### Sênior na STI Soluções em Tecnologia da Informação (Ago 2007 - Nov 2015)
+
+Participação ativa no desenvolvimento de solução de integração de hardware para gerenciamento de frotas e monitoramento de veículos. Especialização em Delphi, C#, SQL Server e aplicativos móveis.
+
+### Habilidades
+
+- Programação Embarcada (Arduino, Raspberry Pi)
+- Desenvolvimento de Hardware Inovador
+- Internet of Things (IoT)
+- Inteligência Artificial (Machine Learning, Deep Learning)
+- Desenvolvimento FullStack
+- Segurança da Informação e Pentesting
+
+### Contato
+
+- Telefone: (19) 9.9513-2340
+- LinkedIn: (https://www.linkedin.com/in/fernando-machado-dos-santos-7610b987/)
+
+
  <div>
   <a href="https://github.com/fernandoinside">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoinside&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
